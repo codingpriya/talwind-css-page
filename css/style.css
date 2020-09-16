@@ -1,0 +1,47 @@
+.container{
+    margin: auto;
+}
+
+header{
+    position: fixed;
+    z-index: 10;
+}
+
+.banner {
+    background-image: url(../images/banner.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 0;
+}
+
+.btn-lg{
+    padding: 1rem 2rem;
+}
+
+.btn-medium{
+    padding: 0.65rem 1rem;
+}
+
+.w-22{
+    width: 22%;
+}
+
+.w-23{
+    width: 23%;
+}
+
+.w-48{
+    width: 48%;
+}
+
+.bg-blue-1000 {
+    background-color: #001d38;
+}
+
+.w-14{
+    width: 3.5rem;
+}
+
+.banner .large-pt-10 {
+    padding-top: 6rem;
+}
